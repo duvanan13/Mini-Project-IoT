@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/He thong nhung/New Folder/readSensor_adaf/build/CMakeFiles/bootloader
+D:/He thong nhung/New Folder/readSensor_adaf/build/CMakeFiles/bootloader.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/CMakeFiles/bootloader-complete.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/He thong nhung/New Folder/readSensor_adaf/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
